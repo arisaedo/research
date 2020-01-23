@@ -22,6 +22,22 @@ A Decentralised Autonomous Organisations; often referred to as "DAO", is a colle
 
 A Decentralised Application; often referred to as “dApps”, is an application that utilizes blockchain to ensure immutability and transparency between the users. It excels for certain use-cases, e.g issuing non-fungible tokens, however, it can be really expensive to develop full-fledged dApps. Moreover, dApps very commonly utilizes smart contracts that virtual-machine based blockchains offer to provide an extensive list of features.
 
+### Quadratic Voting
+
+-> Stuff Goes Here...!
+
+### Liberal Radicalism
+
+-> Stuff Goes Here...!
+
+### Free-Rider Problem
+
+-> Stuff Goes Here...!
+
+### Liberal-Communitarian debate in Political Philosophy
+
+-> Stuff Goes Here...!
+
 ---
 
 ## Economic Research Papers
