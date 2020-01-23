@@ -24,6 +24,16 @@ A Decentralised Application; often referred to as “dApps”, is an application
 
 ---
 
+## Economic Research Papers
+
+1. Liberal Radicalism: Formal Rules for a Society Neutral among Communities
+   - PDF: [/ECONS/1.pdf](./ECONS/1.pdf)
+   - Paper: [Link](https://arxiv.org/pdf/1809.06421.pdf)
+   - Overview
+     - Design for philanthropic or publicly-funded seeding to allow (near) optimal provision of a decentralized, self-organizing ecosystem of public goods
+     - Concepts extend ideas from Quadratic Voting (QV) mechanism
+     - Provides information about the `free-rider` problem and then formally outlines issues related to public goods
+
 ## OSS Research Papers
 
 1. Worries of open source projects' contributors: Patterns, structures and engagement implication
