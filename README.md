@@ -65,3 +65,13 @@ A Decentralised Application; often referred to as “dApps”, is an application
 2. An Empirical Analysis of the Business Value of Open Source Infrastructure Technologies
    - PDF: [/OSS/2.pdf](./OSS/2.pdf)
    - Paper: [Link](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1556&context=jais)
+
+## Consensus Research Papers
+
+1. RepuCoin: Your Reputation Is Your Power
+   - PDF: [/CONSENSUS/1.pdf](./CONSENSUS/1.pdf)
+   - Paper: [Link](https://www.scopus.com/record/display.uri?eid=2-s2.0-85068894515&origin=inward&txGid=4853d3e23145ff1ea8cbaf3126b6ed69)
+   - Overview
+     - Conceptualises a consensus protocol that is based on reputation of the users in a system
+     - Highly performant consensus protocol with TPS of up to 10,000
+     - 51% majority attack resistant
