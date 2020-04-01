@@ -1,4 +1,4 @@
-# research
+# Achieving Sustainability of Public Goods through Philanthropic Liberal Radicalism (PLR)
 
 ---
 
