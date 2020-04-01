@@ -1,32 +1,3 @@
-# Floyd Economy
-
-### Summary
--  A self-funded philanthropic economy
-- An endogenous community of developers that conform to neutral and non-authoritative rules
-- A censorship-resistant public goods platform
-
-### The Problem Space
-This section of the document should be treated as a conceptual document. Things here are bound to change and nothing is permanent.
-
-
-### What we set out to solve?
-The main issues that exist in open source software and decentralised autonomous organisations are highlighted here.
-
-1. Public Goods
-  * Sustainability issues related to public goods
-  * Lack of incentives to contribute to public goods
-  * Reducing public goods projects administrative costs
-  * Free-Rider Problem
-2. Decentralised Autonomous Organisations (DAOs)
-  * Security vulnerabilities of issuing smart contracts to facilitate DAO
-  * Plutocracy that occurs in decentralized governance
-  * Non-colluding endogenous communities of developers
-
-**IMPORTANT CAVEAT**: This project first started out as a solution to the sustainability issues that exist within the open-source software industry. However, while solving the sustainability issue, we noticed that this solution is applicable to a variety of public goods through concepts related to philanthropic liberalism. Henceforth, some parts of this document highlight open-source software, however, that should be taken with a grain of salt. Instead, refer to those parts as public goods instead of open-source software.
-
-Also, it’s worth noting that most of the concepts and decisions that are made in this document are to solve the sustainability issues that exists in public good platforms.
-
-
 ### How do we solve the sustainability issue?
 
 The sustainability issue highlights the core problem of public good projects, whereby, some public good projects lack funding to sustain business activities for a long period of time.
@@ -110,13 +81,13 @@ The Philanthropic Miner is a part of the founding council that governs Floyd Fou
 **IMPORTANT CAVEAT**: It’s important to understand that while this section exists to discuss various block reward mechanisms, it is independent of the block rewards allocated to the FF and CLR DAO.
 
 
-### How should block rewards be allocated to miners?
+### How should rewards be allocated?
 
 **IMPORTANT CAVEAT**: It’s important to understand that while this section exists to discuss various block reward mechanisms, it is independent of the block rewards allocated to the FF and CLR DAO.
 
 It’s important to understand that while this section exists to discuss various block reward mechanisms, it is independent of the block rewards allocated to the FF and CLR DAO.
 
-#### Exponential Decay of Block Rewards
+#### Exponential Decay of Tokens
 
 This concept of using decay as a way of reward miners was first introduced by Satoshi Nakamoto, however, recent works done by **Panvala** have extended this concept by formally defining Circuit Tokens (refer here from the extensive writeup done by niran -- Panvala Founder). The author claims in this article that, it’s possible to construct an **incredible decade-long window** which allows communities to receive funding of public goods at an amplified rate. Then, the author claim’s that, just like in Bitcoin, where, miners are incentivised to provide public good (public goods in Bitcoin’s context means mining a good block), in context to communal communities, it’s possible to subsidize communities to continually produce more public goods (public goods in this context means anything from source code to music).
 
