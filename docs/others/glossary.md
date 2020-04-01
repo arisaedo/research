@@ -20,3 +20,14 @@
   * the period of time that the blockchain will continue working (producing new blocks)
 9. Block Reward
   * rewards that are given to miners that contribute to the consensus of the blockchain
+10. Open Source Software
+  * An open source project is an umbrella term that includes software whose source code is published and made available to the public, enabling anyone to copy, modify and redistribute the source code with or without conditions.
+11. Decentralised Autonomous Organisations
+  * A Decentralised Autonomous Organisations; often referred to as "DAO", is a collection of autonomous agents acting independently in a decentralised network that is governed by cryptographically enforced contracts. These contracts take shape in the form of open-source software which enforces strict business policies and rules by implementing logic directly into the source code. Essentially, the system ensures that each entity in the system is allocated rights in a fair and distributed manner as written in source code. Moreover, the source code governing the DAO is also completely transparent in a publicly auditable manner.
+12. Decentralised Applications
+  * A Decentralised Application; often referred to as “dApps”, is an application that utilizes blockchain to ensure immutability and transparency between the users. It excels for certain use-cases, e.g issuing non-fungible tokens, however, it can be really expensive to develop full-fledged dApps. Moreover, dApps very commonly utilizes smart contracts that virtual-machine based blockchains offer to provide an extensive list of features.
+13. Quadratic Voting
+14. Liberal Radicalism
+15. Stuff Goes Here...!
+16. Free-Rider Problem
+17. Liberal-Communitarian debate in Political Philosophy
