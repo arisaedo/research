@@ -29,3 +29,6 @@ A complete overview of the timeline and decisions made during the inception of F
 **17/2/2020** - Decided to start exploring smart contracts as an option for creating DAOs. Before this, it was decided to write the DAO contract directly using Golang.
 
 **20/2/2020** - While listing down the Assumptions and Constraints, we noticed that there was a severe issue related to Public Bad. Therefore, we decided to explore solutions to remove Public Bads from the system through some sort of Curation Market. Also, we started to explore ways to utilize existing technologies such as Aragon (DAO platform) and integrate it directly into this project.
+
+
+**22/2/2020** - The solution was completely refactored to now ensure that Floyd Economy exists as a platform that integrates existing public good platforms such as Gitcoin and Panvala by providing the necessary infrastructure required to bootstrap these solutions together. Moreover, this platform will also be able to handle future PG Platforms and allow them to join the system through smart contracts.

@@ -1,0 +1,3 @@
+## The Generalisation of Game Theory in Consensus Architecture
+
+An economic agent is, by definition, an entity with preferences. Game theorists, like economists and philosophers studying rational decision-making, describe these by means of an abstract concept called utility. This refers to some ranking, on some specified scale, of the subjective welfare or change in subjective welfare that an agent derives from an object or an event. By ‘welfare’ we refer to some normative index of relative alignment between states of the world and agents’ valuations of the states in question, justified by reference to some background framework.
