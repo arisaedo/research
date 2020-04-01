@@ -12,12 +12,13 @@ This section of the document should be treated as a conceptual document. Things 
 ### What we set out to solve?
 The main issues that exist in open source software and decentralised autonomous organisations are highlighted here.
 
-1. Public Goods
+Public Goods
   * Sustainability issues related to public goods
   * Lack of incentives to contribute to public goods
   * Reducing public goods projects administrative costs
   * Free-Rider Problem
-2. Decentralised Autonomous Organisations (DAOs)
+
+Decentralised Autonomous Organisations (DAOs)
   * Security vulnerabilities of issuing smart contracts to facilitate DAO
   * Plutocracy that occurs in decentralized governance
   * Non-colluding endogenous communities of developers
