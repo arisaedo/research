@@ -57,3 +57,54 @@ Solution: **Allocation of Block Rewards to FF DAO and CLR DAOA portion of the re
 2. Forces the solution to use a native currency, meaning that we cannot leverage existing blockchains. Moreover, it also forces us to ensure that block rewards exist in the ecosystem.
 
 **IMPORTANT CAVEAT:** This solution can exist independently of the rest of the sustainability solutions. For instance, if we decide to implement exponential decay reward mechanism similar to Panvala, it’s very much possible to ensure that a certain percentage of that block reward is allocated to the FF and CLR DAOs.
+
+
+### What is the CLR Matching Fund?
+
+#### Introduction to Capital-Constrained Liberal Radicalism
+The CLR Round is an issuance round whereby participants are incentivised to contribute to each other within a period of time. These contributions are based on economic means to encourage the production of entrepreneurial public goods. It utilises a concept known as Quadratic Funding (refer to Quadratic Payments: A Primer) that allows participants to receive a matching fund based on the amount of donation. The most important takeaway is that quadratic voting ensures that the amount of influence you purchase is proportional to how much you actually care. It’s a concept that is based on liberal radicalism which encourages the contribution of public goods. This provides incentives for participants to fund each other as the contributions are matched quadratically.
+
+Consider an example, whereby, a participant is looking to create an entrepreneurial public good such as a music album and the community collectively decides whether it is worth funding or not. But instead of just thinking about one single public good, let's create a mechanism where anyone can raise funds for what they claim to be a public good project. Anyone can make a contribution to any project; a mechanism keeps track of these contributions and then at the end of some period of time the mechanism calculates a payment to each public good project.
+
+
+#### The CLR Decentralised Autonomous Organisation
+The CLR DAO acts as the subsidy budget (matching fund), meaning that at each CLR Round period of time, there will be a significant portion of the block rewards and fees in the ecosystem that is allocated to the subsidy budget. This DAO maintains the subsidy budget and pays each public good projects depending on contributions of the endogenous communities.
+
+We can extend this concept by providing a utilitarian based blockchain solution that utilizes CLR’s in the blockchain layer. This means that “public good” applications can be created on top of the utilitarian blockchain, whereby, the community is incentivized to contribute by, 1) creating an entrepreneurial-based public good and 2) funding other “public good” projects.
+
+Moreover, provided that the blockchain layer itself handles the interaction of the CLR, participants can contribute to a variety of “public good” applications such as the open-source industry, music industry, art industry, etc. Essentially, this will allow us to create an economy of “public good” applications, whereby participants are incentivised to contribute to “public goods” for economic.
+
+#### Issues related to CLR
+The central vulnerabilities of LR, as with other mechanisms designed based on the assumption of unilateral optimization, are collusion and fraud.
+1. Collusion takes place when multiple agents act in their mutual interest to the detriment of other participants.
+2. Fraud takes place when a single citizen misrepresents herself as many.
+
+
+**IMPORTANT CAVEAT**: Participants is an abstract term in this context, whereby, they have the ability to contribute/donate funds to other participants. They can developers, donations, organisations, musicians,  artist, etc. Public goods is an abstract term in this context, whereby, it can goods such as source code, music, art, etc.
+
+### What are the other solutions to the sustainability issue?
+
+The current proposed solution is to ensure that a certain % of block rewards is rewarded to the CLR function.
+
+This section will outline several ways to increase the equilibrium point of sustainability in this application.
+
+#### Universal Dividend
+It’s important to understand that the **Universal Dividend (UD)** is based on concepts that relate to having a Universal Basic Income (UBI) for each citizen in the economy (in this context, it would instead be each DAO in the economy). However, instead of achieving UBI through post-reward taxation, the UD would be the function of total block rewards of the entire blockchain (maybe after subtracting the block rewards for the CLR DAO and FF DAO). The reason for such a radical approach is to ensure that consensus participants are forced to be philanthropic, in other words, consensus participants **CANNOT be free-riders**.
+
+Since we can’t really identify the motives of each consensus participant, whether, it is to be philanthropic, to be an adversary, or just to make money for their own benefit, a scheme such as UD might prove to be beneficial as it forces every participant to be a philanthropist.
+
+However, such a scheme may demotivate good behaving miners from participating in the consensus as their rewards are always slashed. Also, another major benefit of UD is that it ensures that the basic income received by all the DAO’s progressively increases as the number of blocks and transactions increases. DAO’s will progressively become richer, and this is actually a good thing because _liveness_ is guaranteed in the application.
+
+#### Philanthropic Miner
+
+Also, since we are on the topic of achieving philanthropism through the consensus participants, it would be awesome if there were philanthropist that participated in the consensus by donating all their rewards directly to the CLR DAO. This would mean that there will be a subset of miners that are effectively continuously contributing their block rewards to the CLR DAO.
+
+If reputation-based consensus is employed, then being a Philanthropic Miner means that your reputation in the system should grow at a much faster rate (hence, reputation should be a function of % block reward contributed) compared to other miners as you are contributing purely for the benefit of the ecosystem.
+
+How can Philanthropic Miner attack the system?
+  1. Ask yourself this, how philanthropic can a philanthropist be?
+  2. Philanthropic Miner may attack the system by fucking up the governmental and administrative decisions that occur in a DAO, since they theoretically have the most amount of reputation in the system.
+
+The Philanthropic Miner is a part of the founding council that governs Floyd Foundation.
+
+**IMPORTANT CAVEAT**: It’s important to understand that while this section exists to discuss various block reward mechanisms, it is independent of the block rewards allocated to the FF and CLR DAO.
