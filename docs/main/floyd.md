@@ -108,3 +108,18 @@ How can Philanthropic Miner attack the system?
 The Philanthropic Miner is a part of the founding council that governs Floyd Foundation.
 
 **IMPORTANT CAVEAT**: It’s important to understand that while this section exists to discuss various block reward mechanisms, it is independent of the block rewards allocated to the FF and CLR DAO.
+
+
+### How should block rewards be allocated to miners?
+
+**IMPORTANT CAVEAT**: It’s important to understand that while this section exists to discuss various block reward mechanisms, it is independent of the block rewards allocated to the FF and CLR DAO.
+
+It’s important to understand that while this section exists to discuss various block reward mechanisms, it is independent of the block rewards allocated to the FF and CLR DAO.
+
+#### Exponential Decay of Block Rewards
+
+This concept of using decay as a way of reward miners was first introduced by Satoshi Nakamoto, however, recent works done by **Panvala** have extended this concept by formally defining Circuit Tokens (refer here from the extensive writeup done by niran -- Panvala Founder). The author claims in this article that, it’s possible to construct an **incredible decade-long window** which allows communities to receive funding of public goods at an amplified rate. Then, the author claim’s that, just like in Bitcoin, where, miners are incentivised to provide public good (public goods in Bitcoin’s context means mining a good block), in context to communal communities, it’s possible to subsidize communities to continually produce more public goods (public goods in this context means anything from source code to music).
+
+However, one of the major downsides of Panvala is the fact that it requires that the system reaches an equilibrium point, whereby, the amount of tokens issued out as grant is the same as the amount of donation received in a single cycle. This pretty much means that the liveness of this ecosystem is ONLY guaranteed if people continually donate tokens to reach the equilibrium. However, in the event **equilibrium is reached**, then the ecosystem will sustain indefinitely. Unfortunately, we can’t guarantee equilibrium as it depends on the philanthropism of the community, hence, we CANNOT ever guarantee liveness.
+
+In that context, liveness will drastically fluctuate with each cycle. Also, since liveness is one the most important aspect of the system, is there any safeguard mechanism in place in case a situation arises where the utility factor reaches near-zero? Moreover, this system relies on the fact that the community will continually be philanthropic. But, that begs the question of again of how *philanthropic can a philanthropist be*?
