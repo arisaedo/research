@@ -1,0 +1,23 @@
+{
+  "name": "research",
+  "version": "1.0.0",
+  "description": "### Summary -  A self-funded philanthropic economy - An endogenous community of developers that conform to neutral and non-authoritative rules - A censorship-resistant public goods platform",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floydeconomy/research.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floydeconomy/research/issues"
+  },
+  "homepage": "https://github.com/floydeconomy/research#readme"
+}
