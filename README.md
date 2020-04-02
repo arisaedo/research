@@ -23,6 +23,6 @@ Decentralised Autonomous Organisations (DAOs)
   * Plutocracy that occurs in decentralized governance
   * Non-colluding endogenous communities of developers
 
-**IMPORTANT CAVEAT**: This project first started out as a solution to the sustainability issues that exist within the open-source software industry. However, while solving the sustainability issue, we noticed that this solution is applicable to a variety of public goods through concepts related to philanthropic liberalism. Henceforth, some parts of this document highlight open-source software, however, that should be taken with a grain of salt. Instead, refer to those parts as public goods instead of open-source software.ÂmM
+**IMPORTANT CAVEAT**: This project first started out as a solution to the sustainability issues that exist within the open-source software industry. However, while solving the sustainability issue, we noticed that this solution is applicable to a variety of public goods through concepts related to philanthropic liberalism. Henceforth, some parts of this document highlight open-source software, however, that should be taken with a grain of salt. Instead, refer to those parts as public goods instead of open-source software.
 
 Also, it’s worth noting that most of the concepts and decisions that are made in this document are to solve the sustainability issues that exists in public good platforms.

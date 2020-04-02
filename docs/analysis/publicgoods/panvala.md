@@ -23,3 +23,5 @@ Each period of governance is called an epoch, and lasts thirteen weeks. Epoch ze
 
 1. Panvala’s token depreciates every time there is a new grant cycle as all the projects receive funds the same time. Then, these projects sell their tokens meaning that there is an influx of supply and the price drops as a result.
 2. Liveness is only guaranteed if the equilibrium point is reached in each epoch.
+3. Economic Model does not take into account the inflation rate (which is based on exponential decay of token issuance).
+  - Essentially, this is a negatively correlated inflation factor that effects price.
