@@ -2,7 +2,9 @@
   "name": "research",
   "version": "1.0.0",
   "description": "### Summary -  A self-funded philanthropic economy - An endogenous community of developers that conform to neutral and non-authoritative rules - A censorship-resistant public goods platform",
-  "dependencies": {},
+  "dependencies": {
+    "markdown-it-attrs": "^3.0.2"
+  },
   "devDependencies": {
     "vuepress": "^1.4.0"
   },

@@ -2,7 +2,7 @@ const { translate } = require('./theme/utils/translations')
 const { renderHeaderWithExplicitAnchor } = require('./theme/utils/markdown')
 
 module.exports = {
-  title: 'Ethereum.org',
+  title: 'Floyd Economy',
   head: [
     [
       'meta',
@@ -109,10 +109,10 @@ module.exports = {
       buildTag(tokens[idx], slf, 'l7 tc-text300')
   },
 
-  extendPageData($page) {
-    if ($page.path.split('/')[1] == 'translations') {
-      $page.path = $page.path.replace('/translations/', '/')
-    }
+  // extendPageData($page) {
+  //   if ($page.path.split('/')[1] == 'translations') {
+  //     $page.path = $page.path.replace('/translations/', '/')
+  //   }
   },
   locales: {
     // The key is the path for the locale to be nested under.
