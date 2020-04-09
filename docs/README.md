@@ -1,28 +1,14 @@
 # Floyd Economy
 
-### Summary
--  A self-funded philanthropic economy
-- An endogenous community of developers that conform to neutral and non-authoritative rules
-- A censorship-resistant public goods platform
+## Summary
+- A radical reformation of the society to a liberal collectivistic community.
+- A altruistic society of people that promote good initiatives for the community.
+- A philosophical approach of the enabling the collaboration of the community.
 
-### The Problem Space
-This section of the document should be treated as a conceptual document. Things here are bound to change and nothing is permanent.
+## Introduction
+Floyd Economy has gone through several iterations of thought-based experiments conducted through non-empirical means. However, each time a considerable amount of effort was allocated in understanding certain psychological aspects of human behaviour in a radical approach of building societies that are altruistic in nature. Hence, it's important to understand that Floyd Economy is not a company, or an entity, instead, it is as a **movement** that started out from the Ethereum community, which is a perfect example of a community of developers that are **collectivistic** in nature. With the introduction of Gitcoin and Panvala, we can clearly see a large impact of collaboration from developers, enthusiasts and like-minded people in achieving a degree of sustainability in public good projects.
 
+## Sustainability of Public Goods
+It's pretty evident that the Ethereum Foundation and Gitcoin has successfully built a sustainable public good funding mechanism through the concept of Grants. With that, we can see the community come together as a collective and contribute to projects in terms of monetary funding and software development. That should prove that we are currently experiencing a radical reformation of the society, moreso, from individualism to collectivism. This radical movement is so a powerful factor in the Ethereum community, as it drives the production of public goods, in this case, the development of open-source software.
 
-### What we set out to solve?
-The main issues that exist in open source software and decentralised autonomous organisations are highlighted here.
-
-Public Goods
-  * Sustainability issues related to public goods
-  * Lack of incentives to contribute to public goods
-  * Reducing public goods projects administrative costs
-  * Free-Rider Problem
-
-Decentralised Autonomous Organisations (DAOs)
-  * Security vulnerabilities of issuing smart contracts to facilitate DAO
-  * Plutocracy that occurs in decentralized governance
-  * Non-colluding endogenous communities of developers
-
-**IMPORTANT CAVEAT**: This project first started out as a solution to the sustainability issues that exist within the open-source software industry. However, while solving the sustainability issue, we noticed that this solution is applicable to a variety of public goods through concepts related to philanthropic liberalism. Henceforth, some parts of this document highlight open-source software, however, that should be taken with a grain of salt. Instead, refer to those parts as public goods instead of open-source software.
-
-Also, it’s worth noting that most of the concepts and decisions that are made in this document are to solve the sustainability issues that exists in public good platforms.
+## Self-Sovereignty through Digital Identity
