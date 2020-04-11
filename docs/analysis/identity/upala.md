@@ -1,3 +1,5 @@
+# Upala
+
 ## Identity Model of Upala
 
 Upala exists as a **digital identity uniqueness score**. It's built based of the concept of groups, whereby, users are allowed to join groups. A collection of groups can join a group. Essentially, creating a hierarchically structured social graph of groups and users.
