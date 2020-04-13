@@ -19,7 +19,7 @@ Floyd Economy is to serve a wide variety of the public, from musicians to philos
 3. File's must go through a content curation mechanism before being shown on the website.
 
 #### Sovereignty
-1. Also, user's must have sovereign power over their content even though it's for the general public. They should be able to remove it, if they wish so, as this is the basis of human rights and liberalism.
+1. Also, user's must have sovereign power over their content even though it's for the general public. They should be able to remove it, if they wish so, as this is the basis of human rights and liberalism. However, there should be some form of punishment if they wish to remove, so that they can't spam the system by removing it, then uploading it back.
 
 ### Problems that may arise?
 1. People posting things that are actually "Public Bad".

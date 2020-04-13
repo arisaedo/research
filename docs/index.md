@@ -11,4 +11,4 @@ Floyd Economy has gone through several iterations of thought-based experiments c
 ## Sustainability of Public Goods
 It's pretty evident that the Ethereum Foundation and Gitcoin has successfully built a sustainable public good funding mechanism through the concept of Grants. With that, we can see the community come together as a collective and contribute to projects in terms of monetary funding and software development. That should prove that we are currently experiencing a radical reformation of the society, moreso, from individualism to collectivism. This radical movement is so a powerful factor in the Ethereum community, as it drives the production of public goods, in this case, the development of open-source software.
 
-## Self-Sovereignty through Digital Identity
+## Respect and Sovereignty
