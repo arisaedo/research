@@ -2,7 +2,7 @@
 
 ## Philosophy of Sovereignty
 
-### Absolutism
+### Absolutism (IGNORE THIS PLEASE)
 Absolutism is a concept derived from absolute sovereign power to the court of kingship, or in other words, monarch (or dictator) practices unlimited centralized authority and absolute sovereignty, as written by Sir Robert Filmer in Patriarcha. It's pivotal to understand this "glib nonsense" as describe by John Locke when defining sovereignty.
 Firmer was a political figure that pioneered this concept of absolutism as he believe that the state was a family, that the first king was father, and the submission to patriarchal authority was the key to political obligation. We've used the term monarch, instead of dictator, in this context as we'll be referring to central authorities when discussing self-sovereignty. However, we've even seen some form of dictator-based absolutism in the 20th century with figures such as Adolf Hitler and Joseph Stalin.
 

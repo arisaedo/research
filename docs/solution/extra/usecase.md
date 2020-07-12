@@ -4,5 +4,5 @@ This section highlights the different use-cases that this sustainability platfor
 1. Open-Source Software
 2. Musician
 3. Artist
-4. Author
+4. Authors
 5. Fundraising
