@@ -1,9 +1,4 @@
-## Interfaces Between Layers
-
-The passing of the data and network information down through the layers of the sending device and back up through the layers of the receiving device is made possible by an interface between each pair of adjacent layers. Each interface defines the information and services a layer must provide for the layer above it. Well-defined interfaces and layer functions provide modularity to a network. As long as a layer provides the expected services to the layer above it, the specific implementation of its functions can be modified or replaced without requiring changes to the surrounding layers
-
-## Organisation of the Layers
-
+notes: some background information, this paper is based on [1].
 
 ## Principles of Self-Sovereign Identity
 Based on Christopher Allen's comprehensive list of properties for Self-Sovereign Identity [2]
@@ -62,13 +57,34 @@ would be able to be shared, they are not generic.
 1. format for ease of use
 2. easy upgrading
 
-Hence, the claims are still missing `metadata` [1].
+
+### Claims
+The zk claims are still missing `metadata` [1].
 1. Name
 2. Timestamp
 3. Validity Term
 4. Proof Format
 5. Proof Link: strong association with link.
 
+Claim Expectancy and Risk
+1. Limited
+2. Everlasting
+
+Levels of Escalation for Audit Logs (not mutually exclusive)
+1. Passive
+  - claim origin
+  - pure attestation
+2. Intent-Based
+3. Active
+
+note: for passive, all of these blocks are under the full control of the identity owner. This is why the last signature is always produced by the identity owner as he has the final say on whether or not to include this block in his own personalized blockchain. This is due to the Self-Sovereign Identity requirements of control and access.
+
+
+todo:
+  - research and define claim expectancy and associate risk
+  - research TrustChain
+  - research IdentityChain
+  - research IPv8 Attestation App
 
 ## References
 [1] Quinten Stokkink, Johan Pouwelse. Deployment of a Blockchain-Based Self-Sovereign Identity. 2018. Available:
